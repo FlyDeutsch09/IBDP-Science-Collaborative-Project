@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.sciencedirect.com)",
+      "WebFetch(domain:www.mdpi.com)",
+      "WebFetch(domain:www.washington.edu)",
+      "WebFetch(domain:materialdistrict.com)"
+    ]
+  }
+}
